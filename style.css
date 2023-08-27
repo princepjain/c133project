@@ -1,0 +1,50 @@
+
+.heading
+{
+font-size: 30px;
+width: 100%;
+margin: 0px;
+background-color:indianred ;
+margin-top: 5px;
+font-weight: bolder;
+font-style: oblique;
+}
+
+body{
+    background-position: center;
+    background-size: cover;
+    
+}
+
+canvas{
+    border-radius: 5px;
+    border-width:4px;
+    border-color: black;
+    border-style: double;
+}
+
+.link{
+   background-color: aquamarine;
+   border-radius: 15px;
+   width: 200px;
+   font-size: 20px;
+   margin-top: 20px; 
+   font-weight: 900;
+   font-style:oblique;
+}
+
+
+.back{
+    margin-top: 7px;
+    font-size: 20px;
+    float: right;
+}
+
+.abc{
+    margin-left: 70px;
+    margin-top: 20px;
+}
+
+#fan_li{
+    margin-top: 100px;
+}
